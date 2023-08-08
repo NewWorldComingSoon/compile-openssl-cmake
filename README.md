@@ -1,5 +1,5 @@
 
- OpenSSL 1.1.1t 7 Feb 2023
+ OpenSSL 1.1.1t 7 Feb 2023.
 
 ```
 cmake -Bbuild -TLLVM-MSVC_v143
